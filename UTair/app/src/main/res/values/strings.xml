@@ -2,11 +2,22 @@
     <string name="app_name">UTair</string>
     <string name="text_btn_find_flight">Найти рейсы</string>
     <string name="all_airport">Все аэропорты</string>
+    <string name="text_from">Откуда</string>
+    <string name="text_to">Куда</string>
     <string name="text_forward">Туда</string>
+    <string name="text_tab_forward">  Туда</string>
     <string name="text_return">Обратно</string>
+    <string name="text_tab_return">  Обратно</string>
     <string name="text_adult">Взрослый</string>
     <string name="text_adult_many">Взрослых</string>
     <string name="text_child">2-12 лет</string>
     <string name="text_infant">до 2-х лет</string>
+
+    <string name="error_passengers_count">Пассажиров должно быть не более 9 человек</string>
+    <string name="error_infant_count">Младенцев не должно быть больше, чем взрослых</string>
+    <string name="error_empty_town_from">Введите пункт отправления</string>
+    <string name="error_empty_town_to">Введите пункт назначения</string>
+    <string name="error_empty_date_return">Выберите дату возвращения</string>
+
 
 </resources>

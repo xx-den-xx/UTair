@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#2b4bff</color>
-    <color name="colorPrimaryDark">#0e2eff</color>
+    <color name="colorPrimary">#2137b1</color>
+    <color name="colorPrimaryDark">#1d3099</color>
     <color name="colorAccent">#FFFFFF</color>
     <color name="colorDivider">#77ffffff</color>
+    <color name="colorInactiveTab">#7c829f</color>
     <color name="colorActive">#23ffffff</color>
     <color name="colorInActiveFind">#203cda</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="colorSnackBar">#1227ae</color>
 </resources>
